@@ -1,4 +1,4 @@
-# 💫 About me:
+# 💫 about me:
 <h1 align="center">Hi 👋, I'm Harshit</h1><br><br><h3 align="center">tech Enthusiast | AI & Development | Exploring Systems</h3><br><br>---<br><br>- 🔭 I’m currently working on building projects with **AI & modern development tools**<br><br>- 🤝 I’m open to collaborate on **innovative tech & development projects**<br><br>- 🌱 I’m exploring **new technologies and improving my problem-solving skills**<br><br>- 📁 All of my projects are available here on GitHub<br><br>- 📫 How to reach me: trjsharshit@gmail.com<br><br>- ⚡ Fun fact: **Consistency beats motivation, every single time.**<br><br>---<br><br>### 🌐 Connect with me:<br><!-- 
 
 
