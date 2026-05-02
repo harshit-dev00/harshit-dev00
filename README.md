@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 about Me:
 Hi 👋, I'm Harshit Upadhyay<br>🔭 I’m currently working on AI systems, MLOps pipelines & real-world model deployment • Building intelligent and scalable solutions  <br><br>👯 I’m looking to collaborate on AI development, system design & production-level ML projects  <br><br>🤝 I’m looking for help with scaling AI systems, optimizing models & advanced deployment strategies  <br><br>👨‍💻 All of my projects are available at (Portfolio coming soon..)  <br><br>📫 How to reach me trjsharshit@gmail.com <br><br>📄 Know about my experiences (Coming soon...)  <br><br>⚡ :) Consistency beats motivation, every single time.
 
 
