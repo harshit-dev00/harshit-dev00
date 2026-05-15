@@ -7,7 +7,3 @@ Hi 👋, I'm Harshit Upadhyay<br>🔭 I’m currently working on AI systems, Cyb
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshit-dev00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
